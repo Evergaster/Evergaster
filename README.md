@@ -16,8 +16,8 @@
 
 # proyectos anteriores:
 
-- [x] [bot de discord](https://saraowo.github.io/)
-- [ ] pagina web
+- [ ] bot de discord
+- [x] [pagina web](https://saraowo.github.io/)
 - [x] estudiando ingeneria en sistemas
 
 ---
