@@ -12,14 +12,18 @@ aprendiendo sobre:
 `html`
 `css`
 `javascript`
+`c#`
 
 proyectos anteriores:
 `bot de discord`
 `pagina web`
+`estudiando ingeneria en sistemas`
 
 ---
 
 ```
 estando en este mundo culero desde el 6 septiembre
-
+matenme porfavor
 ```
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JAP0DcgbnOPvpSVC7Bmm9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
