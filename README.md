@@ -3,21 +3,22 @@
 
 ---
 
-#sobremi
-*💦fan del trap mexa
-*💥desarollador pendejo
-*🔷pobre
+# sobremi:
 
-aprendiendo sobre: 
-`html`
-`css`
-`javascript`
-`c#`
+- 💥desarollador pendejo
+- 🔷pobre
+> [!WARNING]
+> - 💦fan del trap mexa
+ 
+# aprendiendo sobre: 
+- javascript
+- c#
 
-proyectos anteriores:
-`bot de discord`
-`pagina web`
-`estudiando ingeneria en sistemas`
+# proyectos anteriores:
+
+- [x] [bot de discord](https://saraowo.github.io/)
+- [ ] pagina web
+- [x] estudiando ingeneria en sistemas
 
 ---
 
@@ -25,5 +26,3 @@ proyectos anteriores:
 estando en este mundo culero desde el 6 septiembre
 matenme porfavor
 ```
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JAP0DcgbnOPvpSVC7Bmm9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
