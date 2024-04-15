@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bo8na329r3m7830iyum4pulzl&count={5})
+
 ---
 
 # sobremi:
