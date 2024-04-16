@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/evergasterxd/evergasterxd/output/snake.svg" alt="Snake animation" />
 
-###
 # sobremi:
 
 - 💥desarollador pendejo
