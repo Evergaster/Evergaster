@@ -50,18 +50,6 @@
 
 ###
 
-<h3 align="left">🔥   mi spotify</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/bo8na329r3m7830iyum4pulzl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bo8na329r3m7830iyum4pulzl&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evergaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=evergaster&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
